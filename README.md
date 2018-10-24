@@ -1,2 +1,2 @@
-# intel_session_2
-intel_session_2
+### Intel Class: “Advanced Python Programming for Machine Learning Projects”
+Session 2 Source Code
