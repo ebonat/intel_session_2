@@ -6,6 +6,9 @@
 # Preparing and Cleaning Data for Machine Learning - APPLY THIS PAPER AND UPDATE THIS CODE - VERY IMPORTANT BEFORE PUBLISHING!
 # https://www.dataquest.io/blog/machine-learning-preparing-data/
 
+
+# TEXTING GITHIB VERSION CONTROL
+
 import os
 import sys
 import datetime
@@ -105,8 +108,8 @@ def main():
     print(df_input_file)       
     print()   
     
-    df_input_file["seven"] = df_input_file["seven"].fillna("£0.0")
-    print("REPLACE NAN VALUES WITH THE  £0.0 IN COLUMN SEVEN:")
+    df_input_file["seven"] = df_input_file["seven"].fillna("ï¿½0.0")
+    print("REPLACE NAN VALUES WITH THE  ï¿½0.0 IN COLUMN SEVEN:")
     print(df_input_file)       
     print()   
     
