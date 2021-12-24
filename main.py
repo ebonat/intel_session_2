@@ -7,7 +7,7 @@
 # https://www.dataquest.io/blog/machine-learning-preparing-data/
 
 
-# TEXTING GITHIB VERSION CONTROL
+# TEXTING GITHUB VERSION CONTROL
 
 import os
 import sys
